@@ -1,0 +1,19 @@
+{
+  "name": "atv-img-replit",
+  "version": "1.0.0",
+  "description": "A project using atvImg library",
+  "main": "script.js",
+  "scripts": {
+    "start": "echo 'Open your HTML file in a browser.'",
+    "test": "echo 'No tests defined.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repository.git"
+  },
+  "keywords": ["atvImg", "image", "animation"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
